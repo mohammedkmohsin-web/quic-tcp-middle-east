@@ -1,0 +1,13 @@
+id,type,af,interval_s,participants,description
+31559012,traceroute,4,900,1040,Anchoring Mesh Measurement: Traceroute IPv4 f
+31559013,ping,4,240,1039,Anchoring Mesh Measurement: Ping IPv4 for anc
+31559014,http,4,1800,1039,Anchoring Mesh Measurement: Http IPv4 for anc
+31559015,traceroute,6,900,962,Anchoring Mesh Measurement: Traceroute IPv6 f
+31559016,ping,6,240,962,Anchoring Mesh Measurement: Ping IPv6 for anc
+31559017,http,6,1800,962,Anchoring Mesh Measurement: Http IPv6 for anc
+31559965,traceroute,4,900,244,Anchoring Probes Measurement: Traceroute IPv4
+31559966,ping,4,240,244,Anchoring Probes Measurement: Ping IPv4 for a
+31559967,http,4,1800,244,Anchoring Probes Measurement: Http IPv4 for a
+31559968,traceroute,6,900,115,Anchoring Probes Measurement: Traceroute IPv6
+31559969,ping,6,240,115,Anchoring Probes Measurement: Ping IPv6 for a
+31559970,http,6,1800,115,Anchoring Probes Measurement: Http IPv6 for a

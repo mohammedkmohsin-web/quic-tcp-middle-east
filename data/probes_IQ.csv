@@ -1,0 +1,11 @@
+probe_id,asn,latitude,longitude,is_anchor,status
+4893,51018,35.5585,45.4115,False,Connected
+7020,21277,36.2375,44.0085,True,Connected
+11560,39216,35.5675,45.4305,False,Connected
+17775,197882,36.1895,44.0105,False,Connected
+51399,199739,33.3015,44.4315,False,Connected
+60075,57908,33.3095,44.4205,False,Connected
+60131,21277,36.8575,42.9885,False,Connected
+61918,21277,35.5615,45.4375,False,Connected
+65514,57324,33.3195,44.3675,False,Connected
+1016155,212330,33.3395,44.3995,False,Connected

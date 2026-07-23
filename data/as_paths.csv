@@ -1,0 +1,7 @@
+probe_id,source_country,final_rtt_ms,as_hops,as_path,operator_path
+6392,AE,191.4,5,AS42473 > AS57187 > AS15802 > AS1299 > AS21277,AS-ANEXIA Anexia Cloud Solutions GmbH > DATAMENA-ASN Emirates Integrated Telec > DU-AS1 Emirates Integrated Telecommuni > TWELVE99 Arelion Sweden AB > Newroz-Telecom-ASN Allay Nawroz Teleco
+6508,IR,119.6,2,AS58224 > AS21277,TCI Iran Telecommunication Company PJS > Newroz-Telecom-ASN Allay Nawroz Teleco
+6431,SA,148.2,3,AS50999 > AS3356 > AS21277,KAUST-AS1 King Abdullah University of  > LEVEL3 - Level 3 Parent > Newroz-Telecom-ASN Allay Nawroz Teleco
+6616,SA,145.0,3,AS47794 > AS3356 > AS21277,ATHEEB-AS Etihad GO Company For commun > LEVEL3 - Level 3 Parent > Newroz-Telecom-ASN Allay Nawroz Teleco
+6429,TR,64.0,2,AS48292 > AS21277,intibu Ciklet Tasarim Iletisim ve Org. > Newroz-Telecom-ASN Allay Nawroz Teleco
+6662,TR,62.9,2,AS202422 > AS21277,GHOST G-Core Labs S.A. > Newroz-Telecom-ASN Allay Nawroz Teleco
